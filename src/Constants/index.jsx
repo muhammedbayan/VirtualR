@@ -1,9 +1,9 @@
-import user1 from "../assets/profilePics/user1.jpg";
-import user2 from "../assets/profilePics/user2.jpg";
-import user3 from "../assets/profilePics/user3.jpg";
-import user4 from "../assets/profilePics/user4.jpg";
-import user5 from "../assets/profilePics/user5.jpg";
-import user6 from "../assets/profilePics/user6.jpg";
+import user1 from "../assets/ProfilePics/user1.jpg";
+import user2 from "../assets/ProfilePics/user2.jpg";
+import user3 from "../assets/ProfilePics/user3.jpg";
+import user4 from "../assets/ProfilePics/user4.jpg";
+import user5 from "../assets/ProfilePics/user5.jpg";
+import user6 from "../assets/ProfilePics/user6.jpg";
 
 export const features = [
   {
